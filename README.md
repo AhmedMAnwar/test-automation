@@ -1,2 +1,2 @@
 # test-automation
-Project presenting a test automation framework with Java syntax
+Project presenting a test automation contribuitng with Java syntax/Test-ng/Maven
